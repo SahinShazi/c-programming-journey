@@ -1,42 +1,21 @@
-# 🚀 Learning C, One Day at a Time
+# 🚀 C Programming Journey: From Beginner to Pro
 
-Welcome! This repository documents my daily journey learning the **C programming language** — from absolute basics to (eventually) more advanced topics.
+Welcome to my C Programming learning repository! 
 
-Each lesson is written as a clean, beginner-friendly Markdown file so that anyone else starting out with C can follow along, learn from my notes, and avoid the confusion I ran into along the way.
+## 👨‍💻 About This Repository
+Hi! I am a student (SSC Batch 2026) and a self-taught web developer. As I expand my programming skills, I am currently learning **C Programming** and documenting my daily progress here. 
 
-## 📖 Why This Repo Exists
+I created this repository for two main reasons:
+* **To track my own progress:** Writing down what I learn helps me revise and understand the core concepts better.
+* **To help other beginners:** Every lesson is written in simple language with clear examples, line-by-line explanations, and common mistakes to avoid. If you are starting out with C, you can use this as a learning resource!
 
-- To hold myself accountable and track my progress learning C.
-- To turn messy notes and video/course content into clear, structured lessons.
-- To build a free resource for other absolute beginners learning C.
+## 🛠️ How to Use This Repository
+1. Start from the **Basics** folder if you are an absolute beginner.
+2. Read the `Key Concepts` and check the `Code Example`.
+3. Try the `Practice Task` at the end of each lesson on your own compiler.
+4. Feel free to give a ⭐ to this repository if it helps you!
 
-## 🗂️ Lessons
-
-| # | Topic | Link |
-|---|---|---|
-| 01 | Introduction to C Programming | [L01-introduction-to-c.md](./L01-introduction-to-c.md) |
-
-*(This table will grow as new lessons are added.)*
-
-## 📚 Lesson Format
-
-Every lesson follows the same structure so it's easy to navigate:
-
-1. **Overview** — what the topic is and why it matters
-2. **Explanation** — beginner-friendly breakdown of the concept
-3. **Code Examples** — with comments, where relevant
-4. **Key Takeaways** — quick summary
-5. **Practice Exercise** — a small task to reinforce learning
-
-## 🙌 Who This Is For
-
-- Absolute beginners who are new to programming or new to C.
-- Anyone who prefers learning through short, clear, daily-sized lessons.
-- Future me, revisiting these concepts down the line.
-
-## 🤝 Contributing
-
-This is primarily a personal learning log, but if you spot an error or have a suggestion, feel free to open an issue or pull request.
-
----
-*Have fun, take a risk, and enjoy the journey of learning C! 🎉*
+## 🤝 Let's Connect
+* **GitHub:** [@SahinShazi](https://github.com/SahinShazi)
+* **Portfolio:** [](#)
+* **LinkedIn:** [](#)
