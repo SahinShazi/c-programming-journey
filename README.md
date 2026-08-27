@@ -17,5 +17,5 @@ I created this repository for two main reasons:
 
 ## 🤝 Let's Connect
 * [GitHub](https://github.com/SahinShazi)
-* **Portfolio:** [](#)
-* **LinkedIn:** [](#)
+* [Portfolio](#)
+* [LinkedIn](#)
