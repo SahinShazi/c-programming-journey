@@ -16,6 +16,6 @@ I created this repository for two main reasons:
 4. Feel free to give a ⭐ to this repository if it helps you!
 
 ## 🤝 Let's Connect
-* **GitHub:** [](https://github.com/SahinShazi)
+* [GitHub](https://github.com/SahinShazi)
 * **Portfolio:** [](#)
 * **LinkedIn:** [](#)
